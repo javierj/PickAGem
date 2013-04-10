@@ -1,0 +1,14 @@
+describe("With a GemContainer ", function() {
+  var gems;
+
+  beforeEach(function() {
+    gems = new GemContainer();
+  });
+
+  it("class GemContainer should exists", function() {
+    expect(gems).toBeDefined();
+
+  });
+
+ 
+});
