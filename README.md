@@ -1,6 +1,7 @@
  PickAGem. 
  A game in JavaScript using EaselJS, soundJS y PreloadJS 
- (from CreateJS  
+(from CreateJS: http://www.createjs.com/#!/CreateJS )
+ 
 =========================================================
 
 PickAGem is a very basic game made in Javascript.
